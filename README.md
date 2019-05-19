@@ -14,3 +14,24 @@ https://www.mathjax.org/#gettingstarted
 
 There are a couple conventions to help with math homework on a laptop. 
 
+Pythagorean Theorem is 
+
+$c^2 = a^2 + b^2$
+
+$\vec{x}{y}$ 
+
+
+$x_{i} + y_{i}$
+
+$x^{i} + y^{i}$
+
+
+
+
+
+
+
+
+
+and this was discovered a long time ago. 
+
